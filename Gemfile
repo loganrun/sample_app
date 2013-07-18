@@ -18,11 +18,11 @@ group :development, :test do
 end
 
 group :development do
-<<<<<<< HEAD
+
   gem 'annotate', '2.5.0'
-=======
+
   gem  'annotate', '2.5.0'
->>>>>>> sign-up
+
 end
 
 # Gems used only for assets and not required
